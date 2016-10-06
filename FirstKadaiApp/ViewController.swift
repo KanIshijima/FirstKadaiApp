@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  FirstKadaiApp
 //
-//  Created by 石嶋 漢 on 2016/10/06.
+//  Created by kan on 2016/10/06.
 //  Copyright © 2016年 KanIshijima. All rights reserved.
 //
 
